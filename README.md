@@ -8,6 +8,8 @@ GitHub es una forja para alojar proyectos utilizando el sistema de control de ve
 
 >    Estoy elaborando mi primer ejemplo de  ** README.md **
 
+Curso creado por Platzi Team
+
 **0. Uno
 1. Dos
 2. Tres**

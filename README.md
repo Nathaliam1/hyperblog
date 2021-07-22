@@ -10,6 +10,7 @@ GitHub es una forja para alojar proyectos utilizando el sistema de control de ve
 
 Curso creado por Platzi Team
 Incluye ejemplos muy interesantes por aprender
+Disponible para todo el mundo
 
 **0. Uno
 1. Dos
